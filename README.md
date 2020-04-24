@@ -1,6 +1,6 @@
 # ECE568 Project for Group2 IG1
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://upload.wikimedia.org/wikipedia/commons/1/1b/UPS_Logo_Shield_2017.svg)
 
 ```
 For the website frontend and backend we use Django
