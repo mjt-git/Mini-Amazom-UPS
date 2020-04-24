@@ -20,4 +20,4 @@ To run the program to establish communication with world and Amazon:
 cd Ups
 python3 upsCommunicator.py <worldIp> 12345
 ```
-World is the Ip of the environment where world is running on
+worldIp is the Ip of the environment where world is running on
